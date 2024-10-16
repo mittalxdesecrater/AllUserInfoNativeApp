@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595466586565",
+    "project_id": "userdatainfonative",
+    "storage_bucket": "userdatainfonative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595466586565:android:90fb28ace4c9a4c8d0e3ac",
+        "android_client_info": {
+          "package_name": "com.companyname.alluserinfonativeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxwdG9vJUUc3K-LhgCn06JfDiAgwfjPwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
